@@ -7,3 +7,8 @@ git log: to check all the commits or checkpoints made
 
 git status: to check whether the file is staged or unstaged
 
+git checkout chapter2.txt: to revert back to changes done in particular file
+
+always write commit messages in present tense
+
+
