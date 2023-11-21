@@ -11,4 +11,9 @@ git checkout chapter2.txt: to revert back to changes done in particular file
 
 always write commit messages in present tense
 
+git merge <branch-name> : you should be in the main branch
+
+git checkout <branch-name>: to change the branch
+
+git branch <branch-name>: to add a new branch
 
